@@ -1,1 +1,1 @@
-Some basics Projects of Python which Will make your concepts clear about all concepts related with Python.
+Some of Python's core projects that will make your ideas clear of all the concepts related to Python.
